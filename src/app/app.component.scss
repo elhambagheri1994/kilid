@@ -1,0 +1,25 @@
+.container{
+
+    button{
+        width: 31%;
+        height: 41px;
+        background: #3db1b0;
+        border-radius: 7px;
+        margin: 0 auto;
+        border: none;
+        position: relative;
+        color: white;
+        font-size: 16px;
+        font-family: iransans;
+        left: 35%;
+        cursor: pointer;
+        transition: 0.4s;
+        bottom: 14vh;
+        outline: 0;
+        &:hover{
+            background: #5fc1c0;
+
+        }
+
+    }
+}
